@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="66" viewBox="0 0 48 66"><title>Boz — falling</title><g stroke="#233b43" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round">
+<path d="M15 49 L13 56 L17 59" fill="none" stroke="#233b43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M15 49 L13 56 L17 59" fill="none" stroke="#d8a57f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M32 49 L36 54 L40 55" fill="none" stroke="#233b43" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M32 49 L36 54 L40 55" fill="none" stroke="#d8a57f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M13 62 L21 62" fill="none" stroke="#233b43" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M13 62 L21 62" fill="none" stroke="#263846" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M36 58 L44 58" fill="none" stroke="#233b43" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M36 58 L44 58" fill="none" stroke="#263846" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7 25 L4 20 L4 12" fill="none" stroke="#233b43" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 25 L4 20 L4 12" fill="none" stroke="#d8a57f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M41 25 L44 18 L43 11" fill="none" stroke="#233b43" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M41 25 L44 18 L43 11" fill="none" stroke="#d8a57f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9 38 Q24 35 39 38 L38 49 L27 50 L24 44 L22 50 L10 49Z" fill="#253846"/>
+<path d="M15 21 Q24 18 33 21 L41 25 L39 33 L37 31 L38 40 Q24 43 10 40 L11 31 L9 33 L7 25Z" fill="#236cba"/>
+<path d="M11 30 Q24 32 37 30 L37 34 Q24 36 11 34Z" fill="#e7efea" stroke="none"/>
+<path d="M14 24 L12 28 M34 24 L36 28" stroke="#5599d5"/>
+<path d="M19 21 L24 27 L29 21" fill="#f2efda" stroke-width="1.2"/>
+<path d="M30 36 L34 36 L34 38 L30 38Z" fill="#f2efda" stroke="none"/>
+<path d="M20 19 L20 22 Q24 25 28 22 L28 19" fill="#ce9873"/>
+<path d="M14 9 Q12 5 17 3 Q25 0 32 5 L34 10 L34 16 Q32 23 24 23 Q16 23 14 16Z" fill="#d8a57f"/>
+<path d="M14 10 Q12 4 18 3 Q25 0 32 5 L34 10 L29 8 L26 6 L21 8 L16 7 L16 12Z" fill="#604535"/>
+<path d="M18 16 Q24 19 30 16 L29 21 Q24 25 19 21Z" fill="#aa794f" stroke="none"/>
+<path d="M18 10 L21 10 M27 10 L30 9" stroke-width="1.5"/><path d="M20 12 L20 13 M29 12 L29 13" stroke-width="2"/>
+<path d="M25 12 L26 16 L24 16" fill="none" stroke="#a77454" stroke-width="1"/>
+<ellipse cx="25" cy="19" rx="2.5" ry="2" fill="#553d32" stroke="none"/>
+
+</g></svg>
